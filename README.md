@@ -1,0 +1,2 @@
+# SparrowPlayer_SeekingWorker
+SparrowPlayer拖动加密视频时启动的Worker
